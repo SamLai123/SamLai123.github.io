@@ -1,5 +1,5 @@
 
-<img src = "https://github.com/SamLai123/SamLai123.github.io/blob/master/mypic.jpeg" height= "300" alt = "This is me!"/>
+<img src = "https://github.com/SamLai123/SamLai123.github.io/blob/master/mypic.jpeg" height= "300" alt = "This is me!">
 
 ## A brief self-introduction
 
