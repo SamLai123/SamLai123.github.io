@@ -1,5 +1,5 @@
 
-<img src = "https://github.com/SamLai123/SamLai123.github.io/blob/master/mypic.jpeg" height= “300” >
+![mypic](mypic.jpeg)
 
 ## A brief self-introduction
 
