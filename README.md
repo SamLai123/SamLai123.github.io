@@ -1,4 +1,4 @@
-| ![mypic](mypic.jpeg) | 
+| ![mypic](mypics.jpeg) | 
 |:--:| 
 | *Me drinking milk tea at Tailand in March 2019, I enjoy milk tea very much!* |
 ## A brief self-introduction
