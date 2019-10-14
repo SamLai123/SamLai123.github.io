@@ -1,6 +1,8 @@
-![mypic](mypics.jpeg) 
+<p align="center">
+  <img width="600" height="450" src="mypics.jpeg">
+</p>
+<center>Me drinking milk tea at Thailand in March 2019 (I enjoy milk tea very much!)</center>
 
-*Me drinking milk tea at Thailand in March 2019 (I enjoy milk tea very much!)*
 ## A brief self-introduction
 
 I am Lexiao (Sam) Lai, a first-year Ph.D. student at [Columbia IEOR](https://ieor.columbia.edu/). My research interest lies broadly in Operations Research, especially in Optimization and Optimal Control. I completed my undergraduate at the [University of Hong Kong](https://www.hku.hk/), majoring in Mathematics and minoring in Finance. And I graduated with First Class Honors. Please refer to my [CV](/Lai%20Lexiao_CV_updated%2008312019.pdf) for more details.
