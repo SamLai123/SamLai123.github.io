@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="600" height="450" src="mypics.jpeg">
-</p>
-<center>Me drinking milk tea at Thailand in March 2019 (I enjoy milk tea very much!)</center>
 
 ## A brief self-introduction
 
