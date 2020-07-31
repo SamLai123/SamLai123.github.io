@@ -1,8 +1,7 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 #theme: minima
 title: Welcome to Lexiao Lai's Homepage!
 description: I am a Ph.D. Student at Columbia IEOR
 author:
   name: Lexiao Lai
   email: lexiao.lai@columbia.edu
-
