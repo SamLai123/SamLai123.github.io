@@ -4,3 +4,6 @@ title: Welcome to Lexiao Lai's Homepage!
 author:
   name: Lexiao Lai
   email: lexiao.lai@columbia.edu
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
