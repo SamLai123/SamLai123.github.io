@@ -6,6 +6,6 @@ I am Lexiao Lai, a Ph.D. student at [Columbia IEOR](https://ieor.columbia.edu/).
 At Columbia, I am working with [Prof. Cédric Josz](https://sites.google.com/site/cedricjosz/) on nonconvex optimization problems. Please refer to my [CV](/Lai_Lexiao_CV_08212020.pdf) for more details.
 
 ## Research Papers
-1. **Lexiao Lai**, Cédric Josz, Nonsmooth rank one matrix factorization landscape, in preparation, 2020
+1. **Lexiao Lai**, Cédric Josz, Nonsmooth rank one matrix factorization landscape, submitted, 2020
 2. Elliot Cartee, **Lexiao Lai**, Qianli Song, Alexander Vladimirsky, Time-dependent surveillance-evasion games, 58th IEEE Conference on Decision and Control, 2019 ([Website](https://eikonal-equation.github.io/TimeDependent_SEG/))
 
