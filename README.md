@@ -9,4 +9,4 @@ At Columbia, I am working with [Prof. Cédric Josz](https://sites.google.com/sit
 1. **Lexiao Lai**, Cédric Josz, Nonsmooth rank one matrix factorization landscape, submitted, 2020
 2. Elliot Cartee, **Lexiao Lai**, Qianli Song, Alexander Vladimirsky, Time-dependent surveillance-evasion games, 58th IEEE Conference on Decision and Control, 2019 ([Website](https://eikonal-equation.github.io/TimeDependent_SEG/))
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=tt&d=Gdy9sgTo6hTpkNAjMHFIYVC3ZGv6K11WYiFCowwOQJQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=tt&d=Gdy9sgTo6hTpkNAjMHFIYVC3ZGv6K11WYiFCowwOQJQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
