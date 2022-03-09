@@ -1,7 +1,7 @@
 
 ## Self-introduction
 
-I am Lexiao Lai 赖乐潇, a Ph.D. student at [Columbia IEOR](https://ieor.columbia.edu/). My research interest lies broadly in Operations Research, especially in Optimization. I completed my undergraduate at the [University of Hong Kong](https://www.hku.hk/), majoring in Mathematics and minoring in Finance. And I graduated with First Class Honors.
+I am Lexiao Lai 赖乐潇, a Ph.D. student at [Columbia IEOR](https://ieor.columbia.edu/). My research interest lies in nonconvex optimization, semi-algebraic geometry, low-rank matrix recovery. I completed my undergraduate at the [University of Hong Kong](https://www.hku.hk/), majoring in Mathematics and minoring in Finance. And I graduated with First Class Honors.
 
 At Columbia, I am working with [Prof. Cédric Josz](https://sites.google.com/site/cedricjosz/) on nonconvex optimization problems. Please refer to my [CV](/Lai_Lexiao_CV.pdf) for more details.
 
