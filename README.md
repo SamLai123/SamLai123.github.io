@@ -1,9 +1,7 @@
 
 ## Self-introduction
 
-I am Lexiao Lai 赖乐潇, a Ph.D. student at [Columbia IEOR](https://ieor.columbia.edu/). My research interest lies in nonconvex optimization, semi-algebraic geometry and low-rank matrix recovery. I completed my undergraduate at the [University of Hong Kong](https://www.hku.hk/), majoring in Mathematics and minoring in Finance. And I graduated with First Class Honors.
-
-At Columbia, I am working with [Prof. Cédric Josz](https://sites.google.com/site/cedricjosz/) on nonconvex optimization problems. Please refer to my [CV](/Lai_Lexiao_CV.pdf) for more details.
+I am Lexiao Lai 赖乐潇, a Ph.D. student at [Columbia IEOR](https://ieor.columbia.edu/). My research interest lies in nonconvex optimization, semi-algebraic geometry, and low-rank matrix recovery. I am very fortunate to be advised by [Prof. Cédric Josz](https://sites.google.com/site/cedricjosz/). Prior to Columbia, I received my Bachelor of Science in Mathematics from [the University of Hong Kong](https://www.hku.hk/). Please refer to my [CV](/Lai_Lexiao_CV.pdf) for more details.
 
 ## Research Papers
 1. Cédric Josz, Lexiao Lai, [Nonsmooth rank-one matrix factorization landscape](https://link.springer.com/article/10.1007/s11590-021-01819-9), Optimization Letters, 2021
