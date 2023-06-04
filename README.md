@@ -1,5 +1,4 @@
 
-## Self-introduction
 
 I am Lexiao Lai 赖乐潇, a Ph.D. student at [Columbia IEOR](https://ieor.columbia.edu/). My research interest lies in nonconvex optimization, semi-algebraic geometry, and low-rank matrix recovery. I am very fortunate to be advised by [Prof. Cédric Josz](https://sites.google.com/site/cedricjosz/). Prior to Columbia, I received my Bachelor of Science in Mathematics from [the University of Hong Kong](https://www.hku.hk/).
 
