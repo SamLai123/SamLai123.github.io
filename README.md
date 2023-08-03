@@ -8,9 +8,9 @@ I am Lexiao Lai 赖乐潇, a fifth-year Ph.D. student at [Columbia IEOR](https:/
 **Email:** lexiao.lai@columbia.edu  
 
 ## Preprints and publications
-1. Cédric Josz, Lexiao Lai, Xiaopeng Li, Convergence of the momentum method for semi-algebraic functions with locally Lipschitz gradients, *SIAM Journal on Optimization (to appear)*, 2023 [[preprint](https://arxiv.org/abs/2307.03331)]
+1. Cédric Josz, Lexiao Lai, [Global stability of first-order methods for coercive tame functions](https://arxiv.org/abs/2308.00899), *arXiv preprint*, 2023 
 2. Cédric Josz, Lexiao Lai, Sufficient conditions for instability of the subgradient method with constant step size, *SIAM Journal on Optimization (to appear)*, 2023 [[preprint](https://arxiv.org/abs/2211.14852)]
-3. Cédric Josz, Lexiao Lai, [Global stability of first-order methods for coercive tame functions](/Global_stability_of_first_order_methods.pdf), *preprint*, 2023
+3. Cédric Josz, Lexiao Lai, Xiaopeng Li, Convergence of the momentum method for semi-algebraic functions with locally Lipschitz gradients, *SIAM Journal on Optimization (to appear)*, 2023 [[preprint](https://arxiv.org/abs/2307.03331)]
 4. Cédric Josz, Lexiao Lai, [Lyapunov stability of the subgradient method with constant step size](https://doi.org/10.1007/s10107-023-01936-6), *Mathematical Programming*, 2023 [[preprint](https://arxiv.org/abs/2211.14850)]
 5. Cédric Josz, Lexiao Lai, [Nonsmooth rank-one matrix factorization landscape](https://doi.org/10.1007/s11590-021-01819-9), *Optimization Letters*, 2021 [[preprint](https://arxiv.org/abs/2211.14848)]
 6. Elliot Cartee, Lexiao Lai, Qianli Song, Alexander Vladimirsky, [Time-dependent surveillance-evasion games](https://eikonal-equation.github.io/TimeDependent_SEG/), *58th IEEE Conference on Decision and Control*, 2019 [[preprint](https://arxiv.org/abs/1903.01332)]
