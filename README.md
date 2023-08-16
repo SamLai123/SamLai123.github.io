@@ -15,4 +15,14 @@ I am Lexiao Lai 赖乐潇, a fifth-year Ph.D. student at [Columbia IEOR](https:/
 6. Cédric Josz, Lexiao Lai, [Nonsmooth rank-one matrix factorization landscape](https://doi.org/10.1007/s11590-021-01819-9), *Optimization Letters*, 2021 [[preprint](https://arxiv.org/abs/2211.14848)]
 7. Elliot Cartee, Lexiao Lai, Qianli Song, Alexander Vladimirsky, [Time-dependent surveillance-evasion games](https://eikonal-equation.github.io/TimeDependent_SEG/), *58th IEEE Conference on Decision and Control*, 2019 [[preprint](https://arxiv.org/abs/1903.01332)]
 
+## Talks
+
+1. INFORMS Annual Meeting, Phoenix, October 17th 2023, *Global stability of first-order methods for coercive tame functions*
+2. International Congress on Industrial and Applied Mathematics, Tokyo, August 24th 2023, *Global stability of first-order methods for coercive tame functions*
+3. SIAM Conference on Optimization, Seattle, June 1st 2023, *Global stability of first-order methods with constant step size for coercive tame functions*
+4. CUHK SEEM Department Seminar, Hong Kong, December 8th 2022, *Lyapunov stability of the subgradient method with constant step size*
+5. HKU Optimization and Machine Learning Seminar, Hong Kong, December 6th 2022, *Lyapunov stability of the subgradient method with constant step size*
+6. PGMODAYS 2022, Paris, November 29th 2022, *Lyapunov stability of the subgradient method with constant step size*
+7. INFORMS Annual Meeting, Indianapolis, October 17th 2022, *Lyapunov stability of the subgradient method with constant step size*
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=tt&d=Gdy9sgTo6hTpkNAjMHFIYVC3ZGv6K11WYiFCowwOQJQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
